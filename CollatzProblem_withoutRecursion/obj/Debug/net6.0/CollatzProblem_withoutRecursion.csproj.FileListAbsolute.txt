@@ -1,0 +1,15 @@
+C:\C#\CollatzProblem_withoutRecursion\CollatzProblem_withoutRecursion\bin\Debug\net6.0\CollatzProblem_withoutRecursion.exe
+C:\C#\CollatzProblem_withoutRecursion\CollatzProblem_withoutRecursion\bin\Debug\net6.0\CollatzProblem_withoutRecursion.deps.json
+C:\C#\CollatzProblem_withoutRecursion\CollatzProblem_withoutRecursion\bin\Debug\net6.0\CollatzProblem_withoutRecursion.runtimeconfig.json
+C:\C#\CollatzProblem_withoutRecursion\CollatzProblem_withoutRecursion\bin\Debug\net6.0\CollatzProblem_withoutRecursion.dll
+C:\C#\CollatzProblem_withoutRecursion\CollatzProblem_withoutRecursion\bin\Debug\net6.0\CollatzProblem_withoutRecursion.pdb
+C:\C#\CollatzProblem_withoutRecursion\CollatzProblem_withoutRecursion\obj\Debug\net6.0\CollatzProblem_withoutRecursion.csproj.AssemblyReference.cache
+C:\C#\CollatzProblem_withoutRecursion\CollatzProblem_withoutRecursion\obj\Debug\net6.0\CollatzProblem_withoutRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CollatzProblem_withoutRecursion\CollatzProblem_withoutRecursion\obj\Debug\net6.0\CollatzProblem_withoutRecursion.AssemblyInfoInputs.cache
+C:\C#\CollatzProblem_withoutRecursion\CollatzProblem_withoutRecursion\obj\Debug\net6.0\CollatzProblem_withoutRecursion.AssemblyInfo.cs
+C:\C#\CollatzProblem_withoutRecursion\CollatzProblem_withoutRecursion\obj\Debug\net6.0\CollatzProblem_withoutRecursion.csproj.CoreCompileInputs.cache
+C:\C#\CollatzProblem_withoutRecursion\CollatzProblem_withoutRecursion\obj\Debug\net6.0\CollatzProblem_withoutRecursion.dll
+C:\C#\CollatzProblem_withoutRecursion\CollatzProblem_withoutRecursion\obj\Debug\net6.0\refint\CollatzProblem_withoutRecursion.dll
+C:\C#\CollatzProblem_withoutRecursion\CollatzProblem_withoutRecursion\obj\Debug\net6.0\CollatzProblem_withoutRecursion.pdb
+C:\C#\CollatzProblem_withoutRecursion\CollatzProblem_withoutRecursion\obj\Debug\net6.0\CollatzProblem_withoutRecursion.genruntimeconfig.cache
+C:\C#\CollatzProblem_withoutRecursion\CollatzProblem_withoutRecursion\obj\Debug\net6.0\ref\CollatzProblem_withoutRecursion.dll
